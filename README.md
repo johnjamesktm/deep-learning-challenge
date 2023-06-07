@@ -1,9 +1,9 @@
 # deep-learning-challenge  
 Solution:  
-https://colab.research.google.com/drive/1kowOkdKRFaCiK8nznqovZTjhpYSSi0yi?usp=sharing  
+https://colab.research.google.com/drive/1axC7v7Q7KSR2SGu73pRCZhYrVQPlF88d?usp=sharing  
   
 Optimized:  
-https://colab.research.google.com/drive/1axC7v7Q7KSR2SGu73pRCZhYrVQPlF88d?usp=sharing  
+https://colab.research.google.com/drive/1kowOkdKRFaCiK8nznqovZTjhpYSSi0yi?usp=sharing  
   
 ## Report  
   
@@ -33,5 +33,5 @@ The analysis here attempts to find the best Neural Network model for the data we
   * What steps did you take in your attempts to increase model performance?
 
 ### Summary
-Keras tuner helps to find the optimal parameters to get the best model.
+Keras tuner helped to find the optimal parameters to get the best model.
   
